@@ -1,3 +1,3 @@
-# yaoyaozii.github.io
+# my-blog
 
 Hello world
